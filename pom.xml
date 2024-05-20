@@ -28,11 +28,6 @@
             <version>5.6.2</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.hamcrest</groupId>
-            <artifactId>hamcrest-library</artifactId>
-            <version>2.2</version>
-        </dependency>
 
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -51,38 +46,7 @@
             <version>5.5.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.ibm.icu</groupId>
-            <artifactId>icu4j</artifactId>
-            <version>70.1</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.easetech</groupId>
-            <artifactId>easytest-core</artifactId>
-            <version>1.4.0</version>
-        </dependency>
-        <dependency>
-            <groupId>jakarta.persistence</groupId>
-            <artifactId>jakarta.persistence-api</artifactId>
-            <version>2.2.3</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>2.0.12</version>
-        </dependency>
-        <dependency>
-            <groupId>com.aventstack</groupId>
-            <artifactId>extentreports</artifactId>
-            <version>5.0.9</version>
-        </dependency>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.16</version> <!-- Versão atual do log4j -->
-        </dependency>
+
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>

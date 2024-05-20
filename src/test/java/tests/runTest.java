@@ -1,7 +1,6 @@
 package tests;
 
 import Pages.*;
-import org.apache.poi.hwpf.usermodel.TableRow;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
