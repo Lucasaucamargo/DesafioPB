@@ -34,8 +34,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Lucasaucamargo/DesafioPB
 Importe o projeto em sua IDE preferida (IntelliJ, Eclipse, etc.).
 
 Baixe as dependências do Maven.
@@ -52,18 +51,18 @@ mvn test
 Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte maneira:
 
-automacao-desafio-pbtech/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── Pages/
-│   │           └── homePage.java
-│   ├── test/
-│   │   └── java/
-│   │       └── tests/
-│   │           └── runTest.java
-│   └── pom.xml
-└── README.md
+          automacao-desafio-pbtech/
+          ├── src/
+          │   ├── main/
+          │   │   └── java/
+          │   │       └── Pages/
+          │   │           └── homePage.java
+          │   ├── test/
+          │   │   └── java/
+          │   │       └── tests/
+          │   │           └── runTest.java
+          │   └── pom.xml
+          └── README.md
 
 
 Contribuições
