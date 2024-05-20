@@ -3,7 +3,7 @@
 Este projeto contém a automação de testes para a página web Challenging DOM do site The Internet, utilizando as seguintes tecnologias:
 
 Selenium WebDriver
-JUnit 4.12
+JUnit 5
 Java 17
 
 
@@ -18,7 +18,7 @@ Validação de cliques em botões com verificação de mudança de texto e cor
 Validação de cliques em botões de edição de linhas de uma tabela, verificando mudanças na URL após o clique
 Tecnologias Utilizadas
 Selenium WebDriver: Ferramenta para automatizar a interação com navegadores web.
-JUnit 4: Framework de testes unitários para Java.
+JUnit 5: Framework de testes unitários para Java.
 Java 17: Linguagem de programação utilizada para desenvolver os testes.
 
 <h3>Pré-requisitos</h3>
