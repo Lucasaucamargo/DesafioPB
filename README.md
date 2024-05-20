@@ -1,4 +1,4 @@
-Projeto de Automação Web - Desafio PBTech
+<h1>Projeto de Automação Web - Desafio PBTech</h1>
 
 Este projeto contém a automação de testes para a página web Challenging DOM do site The Internet, utilizando as seguintes tecnologias:
 
@@ -7,10 +7,10 @@ JUnit 4.12
 Java 17
 
 
-Descrição
+<h3>Descrição</h3>
 O projeto foi criado como parte do Desafio PBTech para demonstrar a automação de testes funcionais na página Challenging DOM, que contém vários elementos desafiadores para automação.
 
-Funcionalidades
+<h3>Funcionalidades</h3>
 As principais funcionalidades automatizadas incluem:
 
 Acesso e validação do título da página
@@ -21,7 +21,7 @@ Selenium WebDriver: Ferramenta para automatizar a interação com navegadores we
 JUnit 4: Framework de testes unitários para Java.
 Java 17: Linguagem de programação utilizada para desenvolver os testes.
 
-Pré-requisitos
+<h3>Pré-requisitos</h3>
 Para executar o projeto em sua máquina local, é necessário ter instalado:
 
 Java 17 JDK (ou versão mais recente)
@@ -29,7 +29,7 @@ Maven
 Um navegador web (Chrome)
 Driver do navegador (ChromeDriver)
 
-Instalação e Execução
+<h3>Instalação e Execução</h3>
 Clone o repositório:
 
 bash
@@ -48,7 +48,7 @@ Execute os testes diretamente pela IDE ou via linha de comando usando Maven:
 mvn test
 
 
-Estrutura do Projeto
+<h3>Estrutura do Projeto</h3>
 A estrutura do projeto está organizada da seguinte maneira:
 
           automacao-desafio-pbtech/
@@ -65,9 +65,9 @@ A estrutura do projeto está organizada da seguinte maneira:
           └── README.md
 
 
-Contribuições
+<h3>Contribuições</h3>
 Contribuições são bem-vindas! Para mudanças importantes, abra primeiro uma issue para discutir o que você gostaria de mudar.
 
 
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+<h3>Licença</h3>
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [(https://choosealicense.com/licenses/mit/#)] para mais detalhes.
