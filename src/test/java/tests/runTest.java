@@ -61,7 +61,8 @@ public class runTest {
         String getTitulo = navegador.getTitle();
         Assert.assertEquals("The Internet", getTitulo);
         Assert.assertEquals("Challenging DOM", textoTitulo);
-
+        System.out.println("O Titulo da página é: " + getTitulo);
+        System.out.println("O Titulo do desafio é: " + textoTitulo);
 
     }
 
