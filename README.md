@@ -72,4 +72,4 @@ Contribuições são bem-vindas! Para mudanças importantes, abra primeiro uma i
 
 
 <h3>Licença</h3>
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [(https://choosealicense.com/licenses/mit/#)] para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo (https://github.com/Lucasaucamargo/DesafioPB/blob/bada9413a99bb91ff9720d5c528ce984b14e4535/License.md) para mais detalhes.
