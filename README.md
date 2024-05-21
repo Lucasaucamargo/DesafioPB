@@ -16,7 +16,9 @@ As principais funcionalidades automatizadas incluem:
 Acesso e validação do título da página
 Validação de cliques em botões com verificação de mudança de texto e cor
 Validação de cliques em botões de edição de linhas de uma tabela, verificando mudanças na URL após o clique
-Tecnologias Utilizadas
+
+Tecnologias Utilizadas:
+
 Selenium WebDriver: Ferramenta para automatizar a interação com navegadores web.
 JUnit 5: Framework de testes unitários para Java.
 Java 17: Linguagem de programação utilizada para desenvolver os testes.
