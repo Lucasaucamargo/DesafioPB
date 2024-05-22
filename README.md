@@ -43,7 +43,7 @@ Baixe as dependências do Maven.
 
 Configure o WebDriver:
 
-Certifique-se de que o WebDriver (ChromeDriver, GeckoDriver, etc.) está configurado corretamente.
+Certifique-se de que o WebDriver (ChromeDriver) está configurado corretamente.
 Execute os testes:
 
 Execute os testes diretamente pela IDE ou via linha de comando usando Maven:
