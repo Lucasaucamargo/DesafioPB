@@ -20,8 +20,8 @@ Validação de cliques em botões de edição de linhas de uma tabela, verifican
 Tecnologias Utilizadas:
 
 Selenium WebDriver: Ferramenta para automatizar a interação com navegadores web.
-JUnit 5: Framework de testes unitários para Java.
-Java 17: Linguagem de programação utilizada para desenvolver os testes.
+JUnit 5
+Java 17
 
 <h3>Pré-requisitos</h3>
 Para executar o projeto em sua máquina local, é necessário ter instalado:
