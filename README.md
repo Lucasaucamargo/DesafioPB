@@ -1,4 +1,4 @@
-<h1>Projeto de Automação Web - Desafio PBTech</h1>
+<h1>Projeto de Automação Web/h1>
 
 Este projeto contém a automação de testes para a página web Challenging DOM do site The Internet, utilizando as seguintes tecnologias:
 
